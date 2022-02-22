@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Address of above twenty thousand of the loyal Protestant apprentices of London humbly presented to the right honourable the Lord Mayor, Septemb. 2, 1681 ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26385</idno>
+            <idno type="STC">Wing A543</idno>
+            <idno type="STC">ESTC R23407</idno>
+            <idno type="EEBO-CITATION">12762332</idno>
+            <idno type="OCLC">ocm 12762332</idno>
+            <idno type="VID">93525</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26385)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93525)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 908:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Address of above twenty thousand of the loyal Protestant apprentices of London humbly presented to the right honourable the Lord Mayor, Septemb. 2, 1681 ...</title>
+                  <author>Ward, Patience, Sir, 1629-1696.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Ingel ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+                  <note>Sir Patience Ward served as Lord Mayor of London.</note>
+                  <note>"In commemoration of the burning of a famous Protestant city by papists."</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:93525:1" rendition="simple:additions"/>
+            <head>The Addreſs of above <hi>Twenty thouſand</hi> of the Loyal Proteſtant <hi>Appren<g ref="char:EOLhyphen"/>tices</hi> of <hi>London:</hi> Humbly preſented to the Right Honourable the Lord Mayor, <hi>Septemb.</hi> 2. 1681. the Day appointed by Act of Par<g ref="char:EOLhyphen"/>liament to be Yearly obſerved in Commemoration of the Burn<g ref="char:EOLhyphen"/>ing that Famous Proteſtant City by <hi>Papiſts, Jeſuits,</hi> and <hi>Tories, Anno</hi> 1666. With ſome of the Reaſons that Induc'd the ſaid Adreſſers to this Application.</head>
+            <p>M<g ref="char:V">Ʋ</g>ch <hi>Clamour,</hi> many <hi>Scandals</hi> have been no leſs induſtriouſly than mali<g ref="char:EOLhyphen"/>ciouſly rais'd, to miſrepreſent this <hi>Modeſt Addreſs: </hi> Therefore here 'tis <hi>publiſh'd,</hi> and left to the Cenſure of every Judicious Peruſer. So far it was from being originally ſet on foot by <hi>Faction,</hi> or ſince carried on by any ſiniſter Practices; that, on the contrary, nothing ſway'd with the <hi>Subſcribers,</hi> but a <hi>juſt ſenſe</hi> of their <hi>Duty.</hi> For, </p>
+            <p n="1">1. Some <hi>few</hi> of their Fellow <hi>Apprentices</hi> having lately preſented an <hi>Addreſs</hi> to His Majeſty, the <hi>Careſſes</hi> and Favours they receiv'd puft them to the <hi>Vanity</hi> of boaſting themſelves the <hi>onely</hi> Loyal Young Men of this City: Such a Scandal to ſo great a City, and ſuch an Affront to <hi>all the reſt</hi> of the Apprentices thereof, that they lay under a kind of neceſſity to vindicate themſelves by ſome <hi>publick</hi> Teſtimony of their Loyalty.</p>
+            <p n="2">2. The Tendency of that other Addreſs ſeem'd to reflect on <hi>Parliaments,</hi> the Bul<g ref="char:EOLhyphen"/>warks (under His Sacred Majeſty) of <hi>Engliſh Liberties:</hi> And this was noiſed to be the <hi>general Senſe</hi> of all the <hi>London-Apprentices.</hi> How reaſonable was it therefore to check ſuch an <hi>Aſperſion,</hi> by declaring the juſt Veneration ought to be conſerv'd by every true Engliſhman for thoſe Auguſt and Honourable Aſſemblies.</p>
+            <p n="3">3. We are caſt into an Age wherein the long-exploded and deteſtable <hi>Idolatries</hi> of the <hi>Church of Rome,</hi> by an <hi>Helliſh Plot,</hi> and variety of <hi>Sham-Plots,</hi> daily broach'd, threaten once more to invade us. And what in ſuch a Juncture could be more neceſſary, than for <hi>ſo many thouſand Young Men</hi> unanimouſly to declare under their Hands, their deteſtation of thoſe Abominations; and that their <hi>Blood</hi> ſhall not be <hi>ſo dear</hi> to them, as the Preſervation of the true <hi>Proteſtant Religion,</hi> and the <hi>Legal Liberties</hi> of <hi>Engliſhmen;</hi> which as they had the Happineſs to be <hi>born to,</hi> ſo they hope to tranſ<g ref="char:EOLhyphen"/>mit them intire to their Poſterity?</p>
+            <p n="4">4. As for the <hi>Method</hi> of gaining Subſcriptions to this Addreſs, 'tis well known to have been <hi>candid</hi> and open: No <hi>Maſters</hi> prompting their Servants, No Men of <hi>Bulk</hi> and <hi>Title</hi> ſtickling, or over-perſuading any; but every one left <hi>free</hi> and <hi>voluntry.</hi> On the contrary, they lay under great Diſcouragements, both by <hi>Printed Lies,</hi> and <hi>Lies by Word of Mouth;</hi> tearing of ſeveral Papers by <hi>Raſh Lads,</hi> inſtigated to ſuch Inſolencies, whereby ſome <hi>Hundreds,</hi> nay, <hi>Thouſands of Hands</hi> were loſt: And yet as under all <hi>Pro<g ref="char:EOLhyphen"/>vocations</hi>nothing <hi>rude</hi> or <hi>undecent</hi> was return'd, ſo the diſproportion between the <hi>Subſcribers</hi> of this and the other <hi>late Addreſs</hi> is remarkable, theirs not amounting to above 2000, or, the moſt that themſelves can pretend to,3000; and <hi>theſe</hi> to above 20000; In no reſpect for Quality of Birth, Breeding, or <g ref="char:V">Ʋ</g>nderſtanding, inferior to the others; not to mention Advantages of Civility, due Senſe of Religion, and Moral Ac<g ref="char:EOLhyphen"/>compliſhments. The Addreſs it ſelf follows in theſe Words.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Right Honourable Sir <hi>Patience Ward</hi> Knight, Lord Mayor of the Honourable City of <hi>London.</hi>
+                        </head>
+                        <head type="sub">
+                           <hi>The Humble Addreſs of many Thouſand Loyal</hi> Apprentices <hi>of the ſame City, whoſe Names are hereunto ſubſcribed,</hi>
+                        </head>
+                        <opener>In all humility ſheweth,</opener>
+                        <p>THat as we are juſtly ſenſible of our Happineſs, in being born under the enjoyment of the Proteſtant Religion, ſo Excellent a Govern<g ref="char:EOLhyphen"/>ment, and ſo Gracious a King, to whoſe Service we ſhall ever be ready to ſacrifice our Lives; ſo have we continually applied <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ur ſelves to diſcharge our Duties in our proper Callings, without pre<g ref="char:EOLhyphen"/>ſuming to intermeddle in Affairs beyond our Sphere or Concernment.</p>
+                        <pb facs="tcp:93525:2"/>
+                        <p> But being fully ſatisfied, both by His Majeſty's frequent Proclamations, the unanimous Votes of ſeveral Parliaments, and the notoriouſneſs of Fact, That for divers years paſt there hath been, and ſtill is, a Deviliſh Plot carried on by the Papiſts, againſt the Sacred Life of our Sovereign (whom God preſerve), and to ſubvert the Proteſtant Religion, and the Government Eſtabliſh'd. In which hor<g ref="char:EOLhyphen"/>rid Practices the Conſpirators have always appeared moſt Active and Inſolent during the Intervals of Parliaments; and from thence, and the continuing Hopes of a Popiſh Succeſſor, take occaſion with greater Confidence to puſh on their Fatal Deſigns.</p>
+                        <p>Obſerving likewiſe, That amongſt the many late Addreſſes, there hath been One promoted in the Names of ſome few of our Condition in this Honourable City, which now is repreſented as the Act and Senſe of the Generality of Ap<g ref="char:EOLhyphen"/>prentices; although the far greater part never joyned therein, as fearing leſt the ſame might ſeem of a tendency diſhonourable to Parliaments, whoſe Conſtitution we reverence, and humbly apprehend their Counſels highly neceſſary in ſuch a Juncture.</p>
+                        <p>Wherefore, though out of an awful Reſpect we preſume not to approach His Sacred Majeſty, yet we cannot but think it our Duty to declare to your Lordſhip, (the Chief Magiſtrate under Him of this Honourable City) and to all the World, That we ſhall never be behind any of our Fellow-Apprentices in Demonſtrations of Loyalty to His Sacred Majeſty, even to the laſt drop of our Blood, whenever His Service ſhall require it, againſt any Traitors or Rebels whatſoever: And alſo to aſſure your Lordſhip, That as we do (and through God's Grace ever ſhall) abhor Popery, and all its Bloody Traiterous Practices; ſo we do utterly diſap<g ref="char:EOLhyphen"/>prove and diſlike any ſuch Proceedings from Private Perſons as tend to reproach Parliaments; but do unanimouſly, with one Heart, and with one Voice, expreſs our Satisfaction in, and Thanks for <hi>The Humble Petition and Addreſs</hi> of your Lordſhip and the Common-Council, preſented to His Majeſty in <hi>May</hi> laſt, and ſince approved of in Common-Hall, for the Aſſembling and Sitting of a Parlia<g ref="char:EOLhyphen"/>ment.</p>
+                        <p>
+                           <hi>That the God of Heaven may ever Bleſs and Preſerve His Sacred Majeſty, and your Lordſhip, and this Great and Honourable City; and grant that your Succeſſors in this weighty Truſt may imitate your Lordſhips Piety and Zeal for the Proteſtant Religion, and His Majeſty's Service, ſhall ever be the daily Prayers of us His Majeſty's Humble, Faithful, Loyal, and Obedient Subjects.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>THis <hi>Addreſs</hi> was this Second of <hi>September</hi> preſented to the Right Honourable the <hi>Lord Mayor,</hi> by a young Gentleman of good Quality, attended with a convenient number of the <hi>Subſcribers,</hi> who having modeſtly repreſented the Reaſons of this Application, did likewiſe take notice of the <hi>baſe</hi> and <hi>falſe</hi> Rumors, which ſug<g ref="char:EOLhyphen"/>geſted as if the ſame was promoted by <hi>Diſſenters;</hi> aſſuring his Lordſhip of the con<g ref="char:EOLhyphen"/>trary, and that himſelf, and all the reſt, (as far as his Knowledge could reach) were ſuch as could boaſt of nothing more than their being <hi>true</hi> (though <hi>unworthy</hi>) <hi>Sons of the Church of England.</hi>
+            </p>
+            <p>To which his Lordſhip was pleas'd to anſwer, <hi>That he was glad to ſee ſo <hi>great</hi> a Number of <hi>Young Men</hi> of the City thus cordially expreſs their due <hi>Loyalty</hi> to His Majeſty, and <hi>Zeal</hi> for the Proteſtant <hi>Eſtabliſh'd</hi> Religion.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Ingol</hi> the Elder. 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
